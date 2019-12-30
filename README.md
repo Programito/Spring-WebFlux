@@ -1,6 +1,6 @@
 # Spring-WebFlux
 
-CRUD
-Thymeleaf
-Upload Image
-MongoDB
+-CRUD
+-Thymeleaf
+-Upload Image
+-MongoDB
